@@ -1,0 +1,27 @@
+       h1 {
+            color: forestgreen;
+        }
+        h2 {
+            color: lightcoral;
+        }
+        h1, h2 {
+            font-family: cursive;
+        }
+        body {
+            background-color: antiquewhite;
+        }
+        p {
+            font-family: arial;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        body {
+            font-size: 20px;
+        }
+        header {
+            border-bottom-style: solid;
+        }
+        header {
+            border-bottom-width: medium;
+        }

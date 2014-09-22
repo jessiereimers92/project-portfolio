@@ -1,0 +1,39 @@
+/*
+Jessie Reimers
+
+Purple - #5D4157
+Grey - #838689
+Green - #A8CABA
+*/
+body{
+    background-color:#EBE3AA;
+}
+h1, h2 {
+    font-family: Georgia;
+    font-size: 30px;
+    text-align: center;
+    color:#A8CABA;
+}
+h2 {
+    font-size: 20px;
+    color:#5D4157;
+}
+a{
+    color:#A8CABA;
+    font-family:Georgia;
+}
+.color1{
+    width: 200px;
+    height: 200px;
+    background-color:#5D4157
+}
+.color2{
+    width: 200px;
+    height: 200px;
+    background-color:#838689
+}
+.color3{
+    width: 200px;
+    height: 200px;
+    background-color:#A8CABA
+}
