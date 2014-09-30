@@ -1,23 +1,26 @@
 body{
-    background-color:#2E2753;
+    background-color:#556270;
     text-align: center
 }
 h1{
     font-family: monospace;
-    color:#BBFAE9;
+    color:#4ECDC4;
     font-size: 50px
 }
 body, a{
-    color:#DACDF9;
+    color:#C44D58;
     font-family: Georgia
 }
 table, th, td{
     border: 3px solid;
-    border-color:#F5AFD3;
+    border-color:#C7F464;
+    text-align: center;
+    width:20%
 }
 th{
-    background-color:#F5AFD3
+    background-color:#556270;
+    text-align: center
 }
 a{
-    color:#6A6784
+    color:#C44D58
 }
