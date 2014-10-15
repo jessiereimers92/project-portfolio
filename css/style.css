@@ -5,45 +5,62 @@ Purple - #5D4157
 Grey - #838689
 Green - #A8CABA
 */
+@import url(http://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(http://fonts.googleapis.com/css?family=Kreon:300,400);
 
 header{
     background-color:#838689;
     width:70%;
     margin-left:auto;
     margin-right:auto;
-    padding: 20px
+    padding: 10px;
+    font-family: 'Dancing Script', cursive;
 }
 body{
     background-color:#EBE3AA;
-    color:#838689;
+    color:white;
+    font-family: 'Kreon', serif;
+    font-size: 20px;
 }
 h1{
-    font-family: Georgia;
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
     color:#A8CABA;
 }
 h2{
-    font-size: 20px;
+    font-size: 30px;
     color:#5D4157;
-    text-align: center
+    text-align: center;
 }
 a{
     color:#A8CABA;
-    font-family:Georgia;
+    font-family: 'Kreon', serif;
 }
-.color1{
+.colorsquare{
     width: 200px;
     height: 200px;
-    background-color:#5D4157
+    display: inline-block;
+    float:left;
+}
+.color1 {
+    background-color:#5D4157;
 }
 .color2{
-    width: 200px;
-    height: 200px;
-    background-color:#838689
+    background-color:#838689;
 }
 .color3{
-    width: 200px;
-    height: 200px;
-    background-color:#A8CABA
+    background-color:#A8CABA;
+}
+img{
+    border: 3px solid #838689;
+}
+.site-footer a{
+    font-size: 25px;
+    color:#A8CABA;
+    font-family: 'Kreon', serif;
+}
+.site-footer a:hover{
+    color:white;
+    font-family: 'Kreon', serif;
+    text-decoration: overline;
 }

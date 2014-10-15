@@ -1,24 +1,45 @@
 h1{
-    font-family: cursive;
+    font-family: 'Pacifico', cursive;
     text-align: center;
-    font-size: 40px;
-    color: #031634
+    font-size: 50px;
+    color:#033649
 }
 h2{
-    color: #CDB380
+    color: #CDB380;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
 }
 body{
     background-color: #033649;
-    font-family: Georgia;
-    color:white
-}
-}
-.permanent{
-    text-align: right
+    font-family: 'Open Sans Condensed', sans-serif;
+    color:#033649;
+    margin: 5px 25px 35px 15px;
+    padding: 5px;
+    background-image: url('upfeathers/upfeathers.png')
 }
 a{
-    color:white
+    color:#033649;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 h3{
-    text-align: center
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.perm{
+    float: left;
+}
+.temp{
+    float: right;
+}
+.clearfix:before,
+.clearfix:after {
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+header{
+    margin: 10px;
+    padding: 5px
 }

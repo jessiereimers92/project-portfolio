@@ -3,7 +3,7 @@ body{
     text-align: center
 }
 h1{
-    font-family: monospace;
+    font-family: Impact;
     color:#4ECDC4;
     font-size: 50px
 }
@@ -15,10 +15,10 @@ table, th, td{
     border: 3px solid;
     border-color:#C7F464;
     text-align: center;
-    width:20%
+    width:0%;
 }
 th{
-    background-color:#556270;
+    background-color:#C7F464;
     text-align: center
 }
 a{
