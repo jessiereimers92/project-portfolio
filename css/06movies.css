@@ -1,0 +1,39 @@
+header{
+    font-family: 'Bubblegum Sans', cursive;
+    text-align: center;
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 10px;
+}
+body {
+    background-image:url(../images/natural_paper.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size:cover;
+    font-family: 'Coming Soon', cursive;
+    margin: 5px 25px 35px 15px;
+    padding: 12px;
+    color:#A6AF93;
+    font-size: 17px;
+}
+div h2{
+    font-family: 'Bubblegum Sans', cursive;
+    color: #9E9499;
+}
+.header{
+    font-family: 'Bubblegum Sans',cursive;
+    text-align: center;
+    font-size: 2em;
+    color:#9E9499;
+}
+a{
+    color:#A6AF93;
+}
+a:hover{
+    color:#AE93AF;
+}
+a:visited{
+    color:#9E9499;
+}

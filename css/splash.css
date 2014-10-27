@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    background-image:url('../images/dawn-dust-horizon-2004.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Kreon', serif;
+    
+}

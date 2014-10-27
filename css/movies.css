@@ -3,13 +3,14 @@ body{
     text-align: center
 }
 h1{
-    font-family: Impact;
+    font-family: 'Amatic SC', cursive;
     color:#4ECDC4;
     font-size: 50px
 }
 body, a{
     color:#C44D58;
-    font-family: Georgia
+    font-family: 'Open Sans Condensed', Georgia;
+    font-size: 20px
 }
 table, th, td{
     border: 3px solid;

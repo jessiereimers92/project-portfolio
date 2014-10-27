@@ -36,6 +36,9 @@ a{
     color:#A8CABA;
     font-family: 'Kreon', serif;
 }
+a:visited{
+    color:#838689;
+}
 .colorsquare{
     width: 200px;
     height: 200px;
