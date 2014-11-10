@@ -9,15 +9,6 @@ h1{
 ul{
     list-style: none;
 }
-.home{
-    border:2px solid #897670;
-}
-.about{
-    border:2px solid #897670;
-}
-.food{
-    border:2px solid #897670;
-}
-.clubsbars{
+.scaled-image{
     border:2px solid #897670;
 }
