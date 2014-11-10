@@ -1,0 +1,23 @@
+body{
+    background-color:#838689;
+    font-family: 'Shadows Into Light', cursive;
+    color:#EBE3AA;
+}
+h1{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+.home{
+    border:2px solid #897670;
+}
+.about{
+    border:2px solid #897670;
+}
+.food{
+    border:2px solid #897670;
+}
+.clubsbars{
+    border:2px solid #897670;
+}

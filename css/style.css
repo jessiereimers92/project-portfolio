@@ -67,3 +67,11 @@ img{
     font-family: 'Kreon', serif;
     text-decoration: overline;
 }
+.navigation{
+    list-style: none;
+}
+
+.navigation li{
+    display: inline-block;
+    padding: 10px;
+}
