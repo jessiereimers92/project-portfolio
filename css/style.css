@@ -8,19 +8,23 @@ Green - #A8CABA
 @import url(http://fonts.googleapis.com/css?family=Dancing+Script);
 @import url(http://fonts.googleapis.com/css?family=Kreon:300,400);
 
-header{
+.header{
     background-color:#838689;
     width:70%;
     margin-left:auto;
     margin-right:auto;
+    margin-top: 5px;
     padding: 10px;
     font-family: 'Dancing Script', cursive;
+    text-align: center;
 }
 body{
-    background-color:#EBE3AA;
+    background-image: url('../images/seamless_paper_texture.png');
     color:white;
     font-family: 'Kreon', serif;
     font-size: 20px;
+    margin: 5px 25px 35px 15px;
+    padding: 5px
 }
 h1{
     font-size: 50px;
@@ -36,6 +40,28 @@ a{
     color:#A8CABA;
     font-family: 'Kreon', serif;
 }
+.info{
+    text-align: center;
+}
+.contentwrapper{
+    width: 70%;
+    margin: auto;
+}
+.main{
+    float:left;
+    width: 60%;
+    border: 2px dashed black;
+    padding: 5px;
+    height: 600px;
+}
+.sidebar{
+    float: right;
+    width: 40%;
+    border: 2px dashed black;
+    padding: 5px;
+    height: 600px;
+    width: 350px;
+}
 a:visited{
     color:#838689;
 }
@@ -44,6 +70,8 @@ a:visited{
     height: 200px;
     display: inline-block;
     float:left;
+    margin: 5px;
+    border: 2px solid black;
 }
 .color1 {
     background-color:#5D4157;
@@ -53,6 +81,14 @@ a:visited{
 }
 .color3{
     background-color:#A8CABA;
+}
+.clearfix:before,
+.clearfix:after {
+}
+.clearfix:after {
+  content: "";
+  display: ;
+  clear: both;
 }
 img{
     border: 3px solid #838689;
@@ -67,11 +103,11 @@ img{
     font-family: 'Kreon', serif;
     text-decoration: overline;
 }
-.navigation{
-    list-style: none;
+.site-footer{
+    text-align: center;
+    border: 2px dashed black;
+    padding: 5px
 }
-
-.navigation li{
-    display: inline-block;
-    padding: 10px;
+.site-footer ul{
+    list-style: none;
 }
