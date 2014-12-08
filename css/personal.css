@@ -1,0 +1,18 @@
+body{
+    padding: 5px;
+    font-family: Georgia;
+    line-height: 170%;
+    background-color: #C63D0F;
+    color:#FDF3E7;
+}
+h1{
+    text-align: center;
+    font-family: Arial Narrow;
+    color: #7E8F7C;
+}
+.narrative{
+    border: 2px solid #7E8F7C;
+    padding: 5px;
+    width: 50%;
+    margin:auto;
+}

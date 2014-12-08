@@ -1,6 +1,7 @@
 body{
     background-color:#556270;
-    text-align: center
+    text-align: center;
+    margin: 10px;
 }
 h1{
     font-family: 'Amatic SC', cursive;
@@ -24,4 +25,7 @@ th{
 }
 a{
     color:#C44D58
+}
+.table-striped>tbody>tr:nth-child(odd){
+    background-color:#C7F464;
 }
